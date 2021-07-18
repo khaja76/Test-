@@ -1,0 +1,1 @@
+<?php  require_once currentModuleView('reception').'outwards/view.php'?>

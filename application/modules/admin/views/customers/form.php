@@ -1,0 +1,1 @@
+<?php include_once currentModuleView('reception').'/customers/form.php';?>

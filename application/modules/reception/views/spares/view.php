@@ -1,0 +1,1 @@
+<?php include currentModuleView('admin') . '/spares/view.php'; ?>

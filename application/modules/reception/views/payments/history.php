@@ -1,0 +1,1 @@
+<?php include currentModuleView('admin').'payments/history.php';?>
